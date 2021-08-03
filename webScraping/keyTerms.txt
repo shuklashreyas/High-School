@@ -1,0 +1,8 @@
+Bank 
+Stock 
+Date 
+Trade date
+Compound interest
+Net worth
+ISIN code
+Currency 
